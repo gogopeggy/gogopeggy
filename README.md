@@ -20,6 +20,7 @@
 <img src="https://img.shields.io/badge/-MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="MUI">
 <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
 <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+ <img src="https://img.shields.io/badge/-Google Map-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" alt="google map">
 </p>
 <p align="center">
 <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
